@@ -8,7 +8,7 @@ Servers are restricted based on your plan (free, basic, plus), which corresponds
 
 ## Usage:
 
-```
+```py
 >>> import vpn_servers as vpns
 >>> vpns.find_a_server_in("JP")
 JP#25: 6%
